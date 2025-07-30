@@ -145,10 +145,10 @@ This project leverages the *2022 Economic Freedom Index* to visualize global eco
 
 ## 👨‍💻 Developed By
 
-*Pranjal Chavan*
-*Samruddhi Bhosale*
-*Vaishnavi Warekar*
-*Prathmesh Ghagare*
+*Pranjal Chavan* ,
+*Samruddhi Bhosale* ,
+*Vaishnavi Warekar* ,
+*Prathmesh Ghagare* 
 Virtual Intern, SmartInternz  
 📅 Project Completion: *June 2025*
 
